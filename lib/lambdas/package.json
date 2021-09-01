@@ -1,0 +1,11 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "description": "Lambdas",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "*",
+    "es6-template-strings": "^2.0.1"
+  }
+}
